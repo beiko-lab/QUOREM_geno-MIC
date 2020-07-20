@@ -1,4 +1,6 @@
-[![CircleCI](https://circleci.com/gh/alexmanuele/QUOREM/tree/master.svg?style=svg)](https://circleci.com/gh/alexmanuele/QUOREM/tree/master)
+# QUOREM for the geno-MIC Project
+
+This repository contains a fork of the QUOREM project with customizations added for the [geno-MIC project](https://wpsites.ucalgary.ca/microbial-corrosion/).
 
 ## Requirements
 Python3 + Postgres + Redis + Celery
